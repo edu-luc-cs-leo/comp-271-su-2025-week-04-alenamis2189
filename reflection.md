@@ -1,0 +1,5 @@
+# Reflection Week 04
+
+* **What I got right/What I got close/What I missed/What I learn by comparing my work and answers:** I followed the programmer's pact correctly except for the multiple returns. I'm not sure why I did that because I double checked and in the past I never did that. I correctly added the method "indexOf" and "contains". However, I might have missed something in my method "indexOf" because the code passed all the tests except test 0. I compared the solution with my code and found that the solution used the loop to check for the stations and my code didn't. Even though my logic was close, the test failed because I didn’t use a full loop. Next time, I’ll make sure to use a proper loop.
+* **Was your code sufficiently documented with comments?** Yes.
+* **Did you test your code to verify that it compiles and returns correct results?** Yes, but it did pass all the tests except the test 0 and by comparing the code with the solution I found a mistake I made.
